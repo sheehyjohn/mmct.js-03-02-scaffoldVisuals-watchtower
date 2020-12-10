@@ -1,0 +1,119 @@
+[{
+		"type": "REGION",
+		"id": 1,
+		"time": 9.80,
+		"description": "intro"
+	},{
+		"type": "REGION",
+		"id": 1,
+		"time": 29.39
+	},{
+		"type": "REGION",
+		"id": 2,
+		"time": 31.84,
+		"description": "verse 1"
+	},{
+		"type": "REGION",
+		"id": 2,
+		"time": 71.02
+	},{
+		"type": "REGION",
+		"id": 3,
+		"time": 52.65,
+		"description": "wahwah(s)"
+	},{
+		"type": "REGION",
+		"id": 3,
+		"time": 60.00
+	},{
+		"type": "REGION",
+		"id": 6,
+		"time": 71.02,
+		"description": "Break 2"
+	},{
+		"type": "REGION",
+		"id": 6,
+		"time": 80.82
+	},{
+		"type": "REGION",
+		"id": 4,
+		"time": 80.82,
+		"description": "verse 2"
+	},{
+		"type": "REGION",
+		"id": 4,
+		"time": 120.00
+	},{
+		"type": "REGION",
+		"id": 7,
+		"time": 120.00,
+		"description": "break 3"
+	},{
+		"type": "REGION",
+		"id": 7,
+		"time": 146.94
+	},{
+		"type": "REGION",
+		"id": 5,
+		"time": 151.84,
+		"description": "percussion"
+	},{
+		"type": "REGION",
+		"id": 5,
+		"time": 158.57
+	},{
+		"type": "REGION",
+		"id": 8,
+		"time": 188.57,
+		"description": "verse 3"
+	},{
+		"type": "REGION",
+		"id": 8,
+		"time": 217.96
+	},{
+		"type": "MARKER",
+		"id": 1,
+		"time": 32.45,
+		"description": "there must be some kinda..."
+	},{
+		"type": "MARKER",
+		"id": 2,
+		"time": 36.06,
+		"description": "said the joker..."
+	},{
+		"type": "MARKER",
+		"id": 3,
+		"time": 41.02,
+		"description": "there's too much...."
+	},{
+		"type": "MARKER",
+		"id": 4,
+		"time": 47.14,
+		"description": "I can't get no...."
+	},{
+		"type": "MARKER",
+		"id": 5,
+		"time": 52.04,
+		"description": "business man...."
+	},{
+		"type": "MARKER",
+		"id": 6,
+		"time": 56.94,
+		"description": "plowman dig...."
+	},{
+		"type": "MARKER",
+		"id": 7,
+		"time": 61.22,
+		"description": "no one ever...."
+	},{
+		"type": "MARKER",
+		"id": 8,
+		"time": 66.12,
+		"description": "no what any of this...."
+	},{
+		"type": "MARKER",
+		"id": 9,
+		"time": 81.43,
+		"description": "no reason to get excited...."
+	}
+]

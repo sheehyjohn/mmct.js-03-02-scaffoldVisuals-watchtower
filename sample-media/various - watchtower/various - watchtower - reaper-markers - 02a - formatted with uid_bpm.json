@@ -1,0 +1,199 @@
+[{
+		"uid": 1,
+		"type": "region",
+		"id": 1,
+		"time": 9.80,
+		"description": "intro",
+		"bpm": 98,
+		"visuals": "star-wipe",
+		"chords": "B A G A"
+	},{
+		"uid": 2,
+		"type": "region",
+		"id": 1,
+		"time": 29.39,
+		"bpm": 98,
+		"visuals": "star-wipe",
+		"chords": "B A G A"
+	},{
+		"uid": 3,
+		"type": "region",
+		"id": 2,
+		"time": 31.84,
+		"description": "verse 1",
+		"bpm": 98,
+		"visuals": "blend",
+		"chords": "B A G A"
+	},{
+		"uid": 4,
+		"type": "region",
+		"id": 2,
+		"time": 71.02,
+		"bpm": 98,
+		"visuals": "blend",
+		"chords": "B A G A"
+	},{
+		"uid": 5,
+		"type": "region",
+		"sub-type": "sub",
+		"id": 3,
+		"time": 52.65,
+		"description": "wahwah(s)",
+		"bpm": 98,
+		"visuals": "pulse"
+	},{
+		"uid": 6,
+		"type": "region",
+		"id": 3,
+		"time": 60.00,
+		"bpm": 98,
+		"visuals": "pulse"
+	},{
+		"uid": 7,
+		"type": "region",
+		"id": 4,
+		"time": 71.02,
+		"description": "Break 2",
+		"bpm": 98,
+		"visuals": "star-wipe",
+		"chords": "B A G A"
+	},{
+		"uid": 8,
+		"type": "region",
+		"id": 4,
+		"time": 80.82,
+		"bpm": 98,
+		"visuals": "star-wipe",
+		"chords": "B A G A"
+	},{
+		"uid": 9,
+		"type": "region",
+		"id": 5,
+		"time": 80.82,
+		"description": "verse 2",
+		"bpm": 98,
+		"visuals": "blend",
+		"chords": "B A G A"
+	},{
+		"uid": 10,
+		"type": "region",
+		"id": 5,
+		"time": 120.00,
+		"bpm": 98,
+		"visuals": "blend",
+		"chords": "B A G A"
+	},{
+		"uid": 11,
+		"type": "region",
+		"id": 6,
+		"time": 120.00,
+		"description": "break 3",
+		"bpm": 98,
+		"visuals": "star-wipe",
+		"chords": "B A G A"
+	},{
+		"uid": 12,
+		"type": "region",
+		"id": 6,
+		"time": 146.94,
+		"bpm": 98,
+		"visuals": "star-wipe",
+		"chords": "B A G A"
+	},{
+		"uid": 13,
+		"type": "region",
+		"sub-type": "sub",
+		"id": 7,
+		"time": 151.84,
+		"description": "percussion",
+		"bpm": 98,
+		"visuals": "pulse"
+	},{
+		"uid": 14,
+		"type": "region",
+		"id": 7,
+		"time": 158.57,
+		"bpm": 98,
+		"visuals": "pulse"
+	},{
+		"uid": 15,
+		"type": "region",
+		"id": 8,
+		"time": 188.57,
+		"description": "verse 3",
+		"bpm": 98,
+		"visuals": "blend",
+		"chords": "B A G A"
+	},{
+		"uid": 16,
+		"type": "region",
+		"id": 8,
+		"time": 217.96,
+		"bpm": 98,
+		"visuals": "blend",
+		"chords": "B A G A"
+	},{
+		"uid": 17,
+		"type": "marker",
+		"id": 1,
+		"time": 32.45,
+		"description": "there must be some kinda...",
+		"bpm": 98
+	},{
+		"uid": 18,
+		"type": "marker",
+		"id": 2,
+		"time": 36.06,
+		"description": "said the joker...",
+		"bpm": 98
+	},{
+		"uid": 19,
+		"type": "marker",
+		"id": 3,
+		"time": 41.02,
+		"description": "there's too much....",
+		"bpm": 98
+	},{
+		"uid": 20,
+		"type": "marker",
+		"id": 4,
+		"time": 47.14,
+		"description": "I can't get no....",
+		"bpm": 98
+	},{
+		"uid": 21,
+		"type": "marker",
+		"id": 5,
+		"time": 52.04,
+		"description": "business man....",
+		"bpm": 98
+	},{
+		"uid": 22,
+		"type": "marker",
+		"id": 6,
+		"time": 56.94,
+		"description": "plowman dig....",
+		"bpm": 98
+	},{
+		"uid": 23,
+		"type": "marker",
+		"id": 7,
+		"time": 61.22,
+		"description": "no one ever....",
+		"bpm": 98
+	},{
+		"uid": 24,
+		"type": "marker",
+		"id": 8,
+		"time": 66.12,
+		"description": "no what any of this....",
+		"bpm": 98
+	},{
+		"uid": 25,
+		"type": "marker",
+		"id": 9,
+		"time": 81.43,
+		"description": "no reason to get excited....",
+		"bpm": 98
+	}
+]

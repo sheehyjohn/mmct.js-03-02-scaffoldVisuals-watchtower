@@ -1,0 +1,26 @@
+﻿uid,type,sub-type,id,time,description,bpm,visuals,chords
+1,region,,1,9.80,intro,98,star-wipe,B A G A
+2,region,,1,29.39,,98,star-wipe,B A G A
+3,region,,2,31.84,verse 1,98,blend,B A G A
+4,region,,2,71.02,,98,blend,B A G A
+5,region,sub,3,52.65,wahwah(s),98,pulse,
+6,region,,3,60.00,,98,pulse,
+7,region,,4,71.02,Break 2,98,star-wipe,B A G A
+8,region,,4,80.82,,98,star-wipe,B A G A
+9,region,,5,80.82,verse 2,98,blend,B A G A
+10,region,,5,120.00,,98,blend,B A G A
+11,region,,6,120.00,break 3,98,star-wipe,B A G A
+12,region,,6,146.94,,98,star-wipe,B A G A
+13,region,sub,7,151.84,percussion,98,pulse,
+14,region,,7,158.57,,98,pulse,
+15,region,,8,188.57,verse 3,98,blend,B A G A
+16,region,,8,217.96,,98,blend,B A G A
+17,marker,,1,32.45,there must be some kinda...,98,,
+18,marker,,2,36.06,said the joker...,98,,
+19,marker,,3,41.02,there's too much....,98,,
+20,marker,,4,47.14,I can't get no....,98,,
+21,marker,,5,52.04,business man....,98,,
+22,marker,,6,56.94,plowman dig....,98,,
+23,marker,,7,61.22,no one ever....,98,,
+24,marker,,8,66.12,no what any of this....,98,,
+25,marker,,9,81.43,no reason to get excited....,98,,
